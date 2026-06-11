@@ -1,11 +1,10 @@
-# Amazon-Product-Segmentation-Using-K-Means-Clustering-with-Orange-Data-Mining# Amazon Product Segmentation Using K-Means Clustering
+# Amazon-Product-Segmentation-Using-K-Means-Clustering-with-Orange-Data-Mining
 
 ## Deskripsi Proyek
 Proyek ini mengimplementasikan algoritma K-Means Clustering untuk melakukan segmentasi produk e-commerce berdasarkan data historis Amazon. Analisis ini bertujuan untuk mengekstraksi wawasan bisnis strategis guna mendukung pengambilan keputusan dalam manajemen portofolio produk, penetapan harga, dan kontrol inventaris. Pemrosesan data dan pemodelan machine learning divisualisasikan secara end-to-end menggunakan Orange Data Mining.
 
 ## Tautan Presentasi Bisnis
-* **Dokumentasi Lengkap (Notion)**:[ [Masukkan Tautan Notion Anda]](https://app.notion.com/p/PORTOFOLIO-DATA-ANALYST-ZAKII-RAMADHAN-3770d45be53980c4b15cf0451a6cafd5?source=copy_link)
-
+* **Dokumentasi Lengkap (Notion)**:[ https://app.notion.com/p/PORTOFOLIO-DATA-ANALYST-ZAKII-RAMADHAN-3770d45be53980c4b15cf0451a6cafd5?source=copy_link]
 ## Struktur Repositori
 * `dataset/`: Berisi dataset mentah `amazon.csv` (1.465 baris data).
 * `workspace/`: Berisi file alur kerja utama `k_means_amazon.ows` yang dapat dijalankan di Orange Data Mining.
